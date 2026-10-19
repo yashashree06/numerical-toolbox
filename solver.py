@@ -1,9 +1,6 @@
 def f(x):
-<<<<<<< HEAD
-    return 1 + 3*(x**2)
-=======
 
->>>>>>> feature/newton-method
+    return 1 + 3*(x**2)
 
 def newton(x):
     return 4*x
