@@ -7,3 +7,6 @@ def dfunc(x):
 def hess(x):
     return 2
 
+def normal(x):
+    return 2+x
+
