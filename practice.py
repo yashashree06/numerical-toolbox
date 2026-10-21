@@ -6,3 +6,4 @@ def dfunc(x):
 
 def hess(x):
     return 2
+
